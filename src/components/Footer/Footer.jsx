@@ -14,7 +14,7 @@ const Footer = () => {
       className="fill-current">
       
     </svg> */}
-    <img className='w-16 h-16 mx-4' src="./src/assets/boiLogo.png" alt="" />
+    <img className='w-16 h-16 mx-4' src="./src/assets/book.ico" alt="" />
     <p className=''>
       <span className='text-2xl font-extrabold'>Boi-Poka</span>
       <br />
