@@ -1,0 +1,12 @@
+@import "tailwindcss";
+@plugin "daisyui";
+body {
+          font-family: "Playfair Display", serif;
+          font-optical-sizing: auto;
+
+}
+.tags{
+  font-family: "Work Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-size: 24px;
+}
